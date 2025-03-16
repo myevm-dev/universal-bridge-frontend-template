@@ -15,7 +15,7 @@ export default function PixelHeader() {
       <div className="container mx-auto px-4">
         <div className="flex items-center justify-between h-16">
           <Link href="/" className="flex items-center">
-            <span className="pixel-text text-xl font-bold text-green-400">Pixel Realm</span>
+            <span className="pixel-text text-xl font-bold text-green-400">Marketplace</span>
           </Link>
 
           <div className="hidden md:flex items-center space-x-4">
