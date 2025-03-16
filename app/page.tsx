@@ -67,7 +67,7 @@ export default function Home() {
 
       <footer className="pixel-border-top bg-zinc-800 py-6">
         <div className="container mx-auto px-4 text-center">
-          <p className="text-purple-300 mb-2">© 2025 Pixel Realm NFT Marketplace</p>
+
           <div className="flex justify-center gap-4">
             <Link href="/about" className="text-green-400 hover:text-green-300">
               About
